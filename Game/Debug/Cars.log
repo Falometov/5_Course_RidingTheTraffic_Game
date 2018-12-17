@@ -1,0 +1,6 @@
+﻿  Cars.cpp
+c:\users\михаил\desktop\cars\cars.cpp(149): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\михаил\desktop\cars\cars.cpp(284): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\михаил\desktop\cars\cars.cpp(295): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Cars.vcxproj -> C:\Users\Михаил\Desktop\Cars\Debug\Cars.exe
+  Cars.vcxproj -> C:\Users\Михаил\Desktop\Cars\Debug\Cars.pdb (Full PDB)
